@@ -1,0 +1,8 @@
+ext/*
+out/*
+src/test_*
+src/usgsFlRun.php
+src/iniaLPRun.php
+data/*.zip
+data/*.txt
+*swp
